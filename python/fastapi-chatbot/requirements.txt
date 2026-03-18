@@ -1,0 +1,4 @@
+velixar
+fastapi
+uvicorn
+openai
